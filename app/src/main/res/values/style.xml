@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="string_h1_black">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="string_h2_black">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="string_h3_black">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="string_h4_black">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="string_h5_black">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="string_h1_black_bold">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="string_h2_black_bold">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="string_h3_black_bold">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="string_h4_black_bold">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="string_h5_black_bold">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="string_h1_white">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="string_h2_white">
+        <item name="android:textSize">25sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="string_h3_white">
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="string_h4_white">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="string_h5_white">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="string_h4_colorless">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+    </style>
+
+    <style name="string_h1_gray">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="string_h2_gray">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="string_h3_gray">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="string_h4_gray">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="string_h5_gray">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="string_h1_gray_bold">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="string_h2_gray_bold">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="string_h3_gray_bold">
+        <item name="android:textSize">30sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="string_h4_gray_bold">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+
+    <style name="string_h5_gray_bold">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+</resources>

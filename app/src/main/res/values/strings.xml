@@ -1,3 +1,43 @@
 <resources>
     <string name="app_name">Pokedex</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pokemones_pokedex">Pokedex</string>
+
+    <!-- Item Types -->
+    <string name="item_types_type">Type</string>
+
+    <!-- About Fragment -->
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="height_text">1.70m(5.58ft)</string>
+    <string name="weight_text">90.50kg(199.52lbs)</string>
+    <string name="breeding_text">Breendig</string>
+    <string name="gender_text">Gender</string>
+    <string name="gender_male_text">87.5%</string>
+    <string name="gender_female_text">12.5%</string>
+    <string name="egg_group">Egg Groups</string>
+    <string name="training_text">Training</string>
+    <string name="base_exp">Base EXP</string>
+    <string name="exp">240</string>
+
+    <!--Base Stats Fragment -->
+    <string name="hp">HP</string>
+    <string name="attack">Attack</string>
+    <string name="defense">Defense</string>
+    <string name="sp_atk">Sp. Atk</string>
+    <string name="sp_def">Sp. Def</string>
+    <string name="speed">Speed</string>
+    <string name="total">Total</string>
+    <string name="hp_number">45</string>
+    <string name="attack_number">60</string>
+    <string name="defense_number">48</string>
+    <string name="sp_atk_number">65</string>
+    <string name="sp_def_number">65</string>
+    <string name="speed_number">45</string>
+    <string name="total_number">317</string>
+
+    <!-- Item Egg Groups -->
+    <string name="monster">Monster</string>
 </resources>
